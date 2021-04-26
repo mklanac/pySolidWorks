@@ -28,7 +28,7 @@ A simple documentation in form of doc-strings can be found in the source code. A
 
 ## License
 
-pyelmer is published under the [GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.html).
+pysolidworks is published under the [GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.html).
 
 
 ## Contribution
