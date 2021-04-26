@@ -1,5 +1,9 @@
 # pysolidworks
 
+<p align="center">
+  <img src="https://github.com/mklanac/pySolidWorks/blob/main/pySolidLogo.png?raw=true" alt="pySolidWorks logo"/>
+</p>
+
 ## Project description
 
 This package is a collection of Python routines to interact with SolidWorks. Using pySolidWorks, you can open a SolidWorks model from within Python, modify feature dimensions, export DXF, carry out a finite element analysis, etc.
@@ -20,7 +24,7 @@ pip install pysolidworks
 
 ## Documentation
 
-A simple documentation in form of doc-strings can be found in the source code. A more extensive documentation can be found in [Manual](https://github.com/mklanac/pySolidWorks/Manual.pdf).
+A simple documentation in form of doc-strings can be found in the source code. A more extensive documentation can be found in [Manual](https://github.com/mklanac/pySolidWorks/blob/main/Manual.pdf).
 
 ## License
 
